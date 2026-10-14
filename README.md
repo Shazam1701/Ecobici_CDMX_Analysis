@@ -27,7 +27,7 @@ El análisis integra 480 estaciones. Se encontraron frecuencias de retiros para 
 Si se desea **observar el resultado final** (sin necesidad de correr el codigo) se recomienda observar las **imagenes** contenidas en este mismo repositorio
 
 ## Ejecución
-Abre `Mapa Geoespacial Ecobici.ipynb` en Jupyter Notebook y ejecuta las celdas en orden. Consulta las instrucciones de obtención de los datos originales antes de ejecutar el análisis.
+Abre `Mapa Geoespacial Ecobicis.ipynb` en Jupyter Notebook y ejecuta las celdas en orden. Consulta las instrucciones de obtención de los datos originales antes de ejecutar el análisis.
 
 ## Limitaciones
 Los resultados dependen del periodo y de la cobertura de los datos de origen. La frecuencia de retiros no representa por sí sola el uso total ni la disponibilidad de bicicletas en cada estación.
